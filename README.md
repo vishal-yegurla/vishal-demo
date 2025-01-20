@@ -1,4 +1,4 @@
 # vishal-demo
-This is first my repository
+This is my first repository
 <br>
-i am a unique coder
+I am a unique coder
